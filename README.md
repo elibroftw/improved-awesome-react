@@ -63,8 +63,8 @@ Of course, the best thing about React is that it uses JSX, so I encourage trying
 
 #### React Development Tools
 
-- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
+- [astro](https://astro.build/) - build websites with a focus on SEO, loading fast, and low JavaScript overhead
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
