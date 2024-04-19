@@ -2,7 +2,6 @@
 
 A collection of awesome things regarding the React ecosystem.
 
-- [Alternative](#alternatives)
 - [React](#react)
   - [React General Resources](#react-general-resources)
   - [React Tutorials](#react-tutorials)
@@ -34,8 +33,11 @@ A collection of awesome things regarding the React ecosystem.
 
 ## React
 
-One of the issues with React.js is the virtual DOM render performance. React.js re-renders components from a single state change and this can end up being slower than vanilla for large components.
-Of course, the best thing about React is that it uses JSX, so I encourage trying out [Solid.js](https://www.solidjs.com/) rather than Svelte or Vue if your looking to learn and not build.
+### Why React
+
+The best argument for React.js is its vast and mature ecosystem.
+It took many years to get to this point and the performance advantages of Solid.js and Svelte.js 
+will be [getting smaller](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024) (react.dev, Feb 2024).
 
 ### Must Haves
 
